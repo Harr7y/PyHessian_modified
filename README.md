@@ -6,3 +6,4 @@ According to the power iteration method to compute the eigenvalues and eigenvact
 1. Preliminary knowledge and Correctness proof are in Hessian_top_1.ipynb
 2. A easy understanding version is function **eigen** in utils.py
 3. demo.py is an illustration of how to compute the eigenvalue and trace with the given (input, label) pair.
+4. You can change the function **get_params_grad** in utils.py to focus on the parameters which you are interested in.
